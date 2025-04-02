@@ -1,6 +1,6 @@
 # Github view but
 
-A simple github view bot
+A simple github view bot. This is not being updated
 
 ## **⚠️ Warning**
 
